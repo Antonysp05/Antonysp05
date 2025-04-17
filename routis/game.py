@@ -1,3 +1,12 @@
+from fastapi import fasstapi
+app = fastapi()
+
+
+
+
+
+
+
 def __init__(self, jogador_inicial="X"):
     self.turno = jogador_inicial
 
